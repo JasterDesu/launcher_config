@@ -25,5 +25,5 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "MerakiGlobal",
 	"newClientUrl" : "https://github.com/JasterDesu/Cliente-Meraki/archive/refs/tags/Tibia.zip",
-	"clientExecutable": "Client Meraki.exe"
+	"clientExecutable": "Cliente Meraki.exe"
 }
