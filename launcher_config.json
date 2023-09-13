@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "MerakiGlobal",
-	"newClientUrl" : "https://github.com/JasterDesu/Cliente-Meraki/archive/refs/tags/att0.zip",
+	"newClientUrl" : "https://github.com/JasterDesu/Cliente-Meraki/archive/refs/heads/main.zip",
 	"clientExecutable": "Meraki.exe"
 }
