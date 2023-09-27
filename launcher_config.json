@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "13.20.13560",
-	"launcherVersion": "1.1",
+	"launcherVersion": "1.2",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "MerakiGlobal",
-	"newClientUrl" : "https://github.com/JasterDesu/Cliente-Meraki/archive/refs/tags/Tibia.zip",
+	"newClientUrl" : "https://github.com/JasterDesu/Cliente-Meraki/releases/tag/13.20",
 	"clientExecutable": "Cliente Meraki.exe"
 }
